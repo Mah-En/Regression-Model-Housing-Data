@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 APR 2025 01:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 APR 2025 01:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -418,18 +418,12 @@ Package hyperref Info: Link coloring OFF on input line 15.
 
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
 al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-
-LaTeX Warning: Reference `fig:dist' on page 2 undefined on input line 48.
-
-<normalized_distribution.png, id=18, 719.8092pt x 395.3169pt>
+<normalized_distribution.png, id=80, 719.8092pt x 395.3169pt>
 File: normalized_distribution.png Graphic file (type png)
 <use normalized_distribution.png>
 Package pdftex.def Info: normalized_distribution.png  used on input line 52.
 (pdftex.def)             Requested size: 422.77664pt x 232.19139pt.
-
-LaTeX Warning: Reference `fig:corr' on page 2 undefined on input line 60.
-
-<correlation_heatmap.png, id=20, 565.1514pt x 499.3857pt>
+<correlation_heatmap.png, id=83, 565.1514pt x 499.3857pt>
 File: correlation_heatmap.png Graphic file (type png)
 <use correlation_heatmap.png>
 Package pdftex.def Info: correlation_heatmap.png  used on input line 64.
@@ -437,10 +431,7 @@ Package pdftex.def Info: correlation_heatmap.png  used on input line 64.
 
 
 [2 <./normalized_distribution.png>]
-
-LaTeX Warning: Reference `fig:reg' on page 3 undefined on input line 72.
-
-<regression_plot.png, id=32, 354.123pt x 370.0224pt>
+<regression_plot.png, id=93, 354.123pt x 370.0224pt>
 File: regression_plot.png Graphic file (type png)
 <use regression_plot.png>
 Package pdftex.def Info: regression_plot.png  used on input line 76.
@@ -456,27 +447,14 @@ Package pdftex.def Info: regression_plot.png  used on input line 76.
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `Report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Report.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  744936545331B663234091CE88D85673;2981.
+Package rerunfilecheck Info: File `Report.out' has not changed.
+(rerunfilecheck)             Checksum: 744936545331B663234091CE88D85673;2981.
  ) 
 Here is how much of TeX's memory you used:
- 11119 strings out of 473190
- 176534 string characters out of 5715801
- 585073 words of memory out of 5000000
- 34239 multiletter control sequences out of 15000+600000
+ 11136 strings out of 473190
+ 176762 string characters out of 5715801
+ 585272 words of memory out of 5000000
+ 34256 multiletter control sequences out of 15000+600000
  566244 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,79p,523b,506s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -490,10 +468,10 @@ ocal/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
 l/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
 /texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/
 texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on Report.pdf (5 pages, 313531 bytes).
+Output written on Report.pdf (5 pages, 314803 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
+ 164 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
  25 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 144 words of extra memory for PDF output out of 10000 (max. 10000000)
 
