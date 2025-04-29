@@ -1,7 +1,7 @@
 
 # Real Estate Price Prediction using Regression Models
 
-**Foundations of Machine Learning – Assignment 1**
+**Foundations of Machine Learning**
 
 ## Abstract
 
@@ -35,17 +35,17 @@ The dataset includes 414 observations and 7 key features:
 ### Distribution of Features
 
 Visualizing the distribution of each feature helps understand the spread and skewness.  
-![Normalized Distributions](latex_figures/normalized_distribution.png)
+![Normalized Distributions](normalized_distribution.png)
 
 ### Correlation Matrix
 
 Pairwise Pearson correlations show strong and weak linear relationships.  
-![Correlation Heatmap](latex_figures/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### Key Relationship: Price vs MRT Distance
 
 As seen below, distance to MRT station is inversely correlated with price.  
-![Regression Plot](latex_figures/regression_plot.png)
+![Regression Plot](regression_plot.png)
 
 ## Statistical Hypothesis Testing
 
